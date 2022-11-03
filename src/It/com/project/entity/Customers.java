@@ -1,4 +1,4 @@
-package It.com.project.entity.customer;
+package It.com.project.entity;
 
 import java.util.ArrayList;
 import java.util.Collections;
