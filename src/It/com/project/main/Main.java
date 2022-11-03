@@ -1,4 +1,4 @@
-package It.com.project.entity.customer;
+package It.com.project.main;
 
 public class Main_customer {
 
