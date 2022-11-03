@@ -1,4 +1,4 @@
-package It.com.project.entity.customer;
+package It.com.project.entity;
 
 //Класс Customer: id, фамилия, имя, отчество, адрес, номер кредитной карточки, номер банковского счета. 
 
